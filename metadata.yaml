@@ -1,5 +1,5 @@
 homepage: "https://www.nottinghamcollege.ac.uk"
 documentation: "https://github.com/nottinghamcollege/ipmeta-ga4-plugin-gtm-template/blob/main/README.md"
 versions:
-  - sha: 472fe758abec65acfc0aa605c1dd118357db9830
+  - sha: 621b51dc24151f5504f179b7e28853c8c1391384
     changeNotes: Initial release.
